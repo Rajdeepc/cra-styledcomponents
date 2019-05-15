@@ -1,9 +1,8 @@
 # React Hooks Boilerplate with Live Reload & Styled Components
 
-[react-hot-loader](https://github.com/gaearon/react-hot-loader) is now compatible with React Hooks APIs.
-[styled-components](https://github.com/styled-components/styled-components) is compatible with React Hooks
-
 This boilerplate could help you start to play React Hooks APIs with Live Reload and Styled Component
+
+## Getting Started
 
 ```sh
 npm install
@@ -11,6 +10,9 @@ npm start
 ```
 
 Check it out: http://localhost:8080
+
+
+### Installing
 
 ## Lint & Build
 
@@ -81,4 +83,30 @@ npm install --save styled-components
   ]
 }
 ```
-Enjoy!!!
+
+## Running the tests
+```
+npm test
+```
+
+
+## Deployment
+
+You can use netlify or free github.io for deployments
+
+
+## Built With
+
+* [react-hot-loader](https://github.com/gaearon/react-hot-loader) is now compatible with React Hooks APIs.
+* [styled-components](https://github.com/styled-components/styled-components) is compatible with React Hooks
+
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
