@@ -1,8 +1,8 @@
-# React Hooks Boilerplate with Live Reload & Styled Components
+## React Hooks Boilerplate with Live Reload & Styled Components
 
 This boilerplate could help you start to play React Hooks APIs with Live Reload and Styled Component
 
-## Getting Started
+### Getting Started
 To get you started you can simply clone the repository:
 
 ```
@@ -22,16 +22,16 @@ A number of node.js tools is necessary to initialize and test the project. You m
 
 ### Installing
 
-## Lint & Build
+#### Lint & Build
 
 ```sh
 npm run lint
 npm run build
 ```
 
-# Begin from scratch
+### Begin from scratch
 
-## Init project
+#### Init project
 
 Create a new directory then
 
@@ -39,46 +39,46 @@ Create a new directory then
 npm init -y
 ```
 
-## Install dependencies
+#### Install dependencies
 ```sh
 npm install react@latest react-dom@latest react-hot-loader
 ```
 
-## Install development dependencies
+### Install development dependencies
 
-### Babel
+#### Babel
 
 ```sh
 npm install @babel/core @babel/preset-env @babel/preset-react babel-loader --save-dev
 ```
 
-### Webpack
+#### Webpack
 
 ```sh
 npm install webpack webpack-cli webpack-dev-server html-webpack-plugin --save-dev
 ```
 
-### ESLint Airbnb
+#### ESLint Airbnb
 ```sh
 npx install-peerdeps --dev eslint-config-airbnb
 npm install babel-eslint --save-dev
 ```
 
-### Cross-env
+#### Cross-env
 
 ```sh
 npm install cross-env --save-dev
 ```
 
-### Styled-Components
+#### Styled-Components
 
 ```sh
 npm install --save styled-components
 ```
 
-# Set up
+### Set up
 
-## Babel config
+#### Babel config
 
 ```babelrc
 {
@@ -92,29 +92,29 @@ npm install --save styled-components
 }
 ```
 
-## Running the tests
+### Running the tests
 ```
 npm test
 ```
 
 
-## Deployment
+### Deployment
 
 You can use netlify or free github.io for deployments
 
 
-## Built With
+### Built With
 
 * [react-hot-loader](https://github.com/gaearon/react-hot-loader) is now compatible with React Hooks APIs.
 * [styled-components](https://github.com/styled-components/styled-components) is compatible with React Hooks
 
 
-## Versioning
+### Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 
-## License
+### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md) file for details
 
